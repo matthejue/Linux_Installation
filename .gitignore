@@ -14,7 +14,7 @@ My Library/files/
 .dep/
 *.lot
 *.lof
-_minted-Main/
+_minted-*/
 *.listing
 *.theorem_list
 *.locodecaption
